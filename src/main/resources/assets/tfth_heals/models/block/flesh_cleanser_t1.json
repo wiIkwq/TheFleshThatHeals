@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "tfth_heals:block/flesh_cleanser_t1_front_off",
+    "north":   "tfth_heals:block/flesh_cleanser_t1_front_off",
+    "south":   "tfth_heals:block/flesh_cleanser_t1_back",
+    "east":    "tfth_heals:block/flesh_cleanser_t1_side",
+    "west":    "tfth_heals:block/flesh_cleanser_t1_side",
+    "up":      "tfth_heals:block/flesh_cleanser_t1_top",
+    "down":    "tfth_heals:block/flesh_cleanser_t1_bottom"
+  }
+}

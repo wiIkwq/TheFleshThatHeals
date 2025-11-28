@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "tfth_heals:block/flesh_cleanser_t1"
+    },
+    "lit=true": {
+      "model": "tfth_heals:block/flesh_cleanser_t1_on"
+    }
+  }
+}
