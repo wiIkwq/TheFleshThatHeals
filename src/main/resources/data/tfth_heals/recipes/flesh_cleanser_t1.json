@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FNF",
+    "BFB",
+    "FNF"
+  ],
+  "key": {
+    "F": {
+      "item": "the_flesh_that_hates:piece_of_flesh"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "P": {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "result": {
+    "item": "tfth_heals:flesh_cleanser_t1"
+  }
+}
